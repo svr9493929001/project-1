@@ -1,0 +1,133 @@
+/* body {
+  background-color: rgba(216, 203, 178, 0.795);
+} */
+.firstsection {
+  background-image: url("https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.data {
+  padding-top: 155px;
+  color: aliceblue;
+}
+.content {
+  width: 100%;
+}
+.star {
+  background-color: gold;
+  padding: 5px;
+  border-radius: 3px;
+}
+.Staff {
+  border: 1px solid;
+  padding: 5px;
+  width: fit-content;
+  border-radius: 5px;
+}
+.spot {
+  border: 1px solid;
+  padding: 5px;
+  width: fit-content;
+  border-radius: 5px;
+  background-color: #fdb515;
+}
+.hearts {
+  background-color: #fff6ee;
+  padding: 7px;
+  border-radius: 5px;
+  color: #fdbd53;
+}
+.more {
+  color: #ee2e24;
+}
+.check {
+  gap: 5px;
+  margin: 5px;
+  border: 1px solid gray;
+}
+li {
+  list-style: disc;
+}
+.log {
+  margin: 10px;
+  margin-top: 15px;
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 2px;
+  font-size: 13px;
+  text-align: center;
+}
+.loginfo {
+  margin: 5px;
+  font-size: 13px;
+}
+.pricetop {
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.price {
+  background-color: aliceblue;
+  height: 100%;
+  border-radius: 5px;
+  position: sticky;
+  right: 5%;
+  top: 76px;
+}
+.detailes {
+  margin: 20px;
+}
+.day {
+  background-color: white;
+  margin: 0px;
+  box-shadow: -1px -1px 5px 7px rgba(0, 0, 0, 0.06);
+}
+.offer {
+  color: limegreen;
+  color: green;
+  border: 1px solid;
+  border-radius: 5px;
+  width: fit-content;
+  text-align: center;
+  background-color: rgba(0, 128, 0, 0.452);
+  margin: 5px;
+  margin-left: 0px;
+}
+.rateing {
+  background-color: green;
+  width: fit-content;
+}
+.bookinfo {
+  width: 100%;
+  text-align: center;
+  background-color: aqua;
+  padding: 3px;
+  border-radius: 5px;
+  margin: 5px;
+  margin-bottom: 15px;
+}
+.sub {
+  margin-top: 32px;
+}
+.saved{
+  width: 100%;
+  text-align: center;
+  background-color: #fdb515;
+  padding: 10px;
+  border-radius: 5px;
+}
+.priceing{
+  height: 100%;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+.paynow{
+  border: 1px solid bisque;
+  text-align: center;
+  padding: 10px;
+}
+.paynow:hover{
+  box-shadow: 1px 1px 5px 10px rgba(0,0,0,0.1);
+}
+.bookingdata{
+  text-align: center;
+}
